@@ -1,0 +1,59 @@
+{
+  "name": "FORTNITE?? IN SPIRE??",
+  "game_version": null,
+  "created_by": "AngelicStrider",
+  "mods": [
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.0.6-Beta",
+      "source": "github:Rain156/sts2-RMP-Mods",
+      "hash": "0e164c3bfd9b00f0de44f129fe302f91e98e4a6735abcd425f459f2705b21bb1",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.0.6-Beta_f8fad33c.zip",
+      "bundle_sha256": "f8fad33cffed848b01e880436c486df7cf843893d39078b1550e4459ba6c4e8c"
+    },
+    {
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "SlaytheSpire2.unlockAll\\mod_manifest.json",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.dll",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.pck",
+        "SlaytheSpire2.unlockAll\\UnlockAllMod.pdb"
+      ],
+      "folder_name": "SlaytheSpire2.unlockAll",
+      "mod_id": "UnlockAllMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_615ca283.zip",
+      "bundle_sha256": "615ca2838beb93c48ce47b01aa740b979e5c12e6d1f6419e5e068dad3a26eb9c"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_384455d3.zip",
+      "bundle_sha256": "384455d334e6aa9ef926d480249a933f02ff5ab74e72018e1a19d6275a7d5a58"
+    }
+  ],
+  "created_at": "2026-05-20T04:48:13.097325300Z",
+  "updated_at": "2026-05-24T05:09:38.345635900Z",
+  "public": false
+}

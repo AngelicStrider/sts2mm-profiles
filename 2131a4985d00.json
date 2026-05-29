@@ -15,9 +15,9 @@
       ],
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
-      "enabled": true,
-      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.0.6-Beta_f1560c3f.zip",
-      "bundle_sha256": "f1560c3f1a86fdd8f5157376158fcb16d05686bb0d21dbfd1c651c7b06cd723c"
+      "enabled": false,
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.0.6-Beta_13a37b46.zip",
+      "bundle_sha256": "13a37b466b6465a1c3cc9a8694da40c9ac7113b9f583a585d431dad61ae89bd1"
     },
     {
       "name": "Unlock All",
@@ -32,9 +32,9 @@
       ],
       "folder_name": "SlaytheSpire2.unlockAll",
       "mod_id": "UnlockAllMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_c5c03cad.zip",
-      "bundle_sha256": "c5c03cad2867aee77fbb6c49c342ba67b683b8101823bf5496dd013b0815d041"
+      "enabled": false,
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_9d6a474d.zip",
+      "bundle_sha256": "9d6a474dab35e7e2e9bb689ba1c2da72542fa93f56fc0720cda8a02e4069e0ee"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -48,12 +48,12 @@
       ],
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
-      "enabled": true,
-      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_5f1689fe.zip",
-      "bundle_sha256": "5f1689fef3aa7fb3fd508a7e9d646983e8fafc5acf9f709c37bd5d6b6d4e3929"
+      "enabled": false,
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_e5a7b255.zip",
+      "bundle_sha256": "e5a7b255590f08a987fd611f6addd0502b3aa668285450ff3ebd80e808786fe6"
     }
   ],
   "created_at": "2026-05-20T04:48:13.097325300Z",
-  "updated_at": "2026-05-24T05:10:15.970674600Z",
+  "updated_at": "2026-05-29T03:27:13.938942300Z",
   "public": false
 }

@@ -17,8 +17,8 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.0.6-Beta_bb6df6d5.zip",
-      "bundle_sha256": "bb6df6d5000bfece7138e930a3f5e87fc1f883142652477107bcad0fa8119dc5"
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.0.6-Beta_dc387e9e.zip",
+      "bundle_sha256": "dc387e9e014ab9adc5311e13981db34381c75a286f8993335db1fe36c51e8bde"
     },
     {
       "name": "Unlock All",
@@ -34,8 +34,8 @@
       "folder_name": "SlaytheSpire2.unlockAll",
       "mod_id": "UnlockAllMod",
       "enabled": true,
-      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_e8273c7a.zip",
-      "bundle_sha256": "e8273c7a3e41509d284ea4750b81a569220ba5477aa8afced8380375935a1ec4"
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_47490af8.zip",
+      "bundle_sha256": "47490af8dc55d0a8a46b21c7020eb55ab89c54d9fe3474d1b3cc3ba80bb937d0"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -50,8 +50,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_561ecca4.zip",
-      "bundle_sha256": "561ecca49cf75353721ab1496a3787740e7d90a61580b5fe593014fb33395f26"
+      "bundle_url": "https://github.com/AngelicStrider/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_e4241fce.zip",
+      "bundle_sha256": "e4241fceed58541018c65c2573c7c5ab15f0d62246b5eec5f72d9da1d9866e9c"
     }
   ],
   "created_at": "2026-05-20T04:48:13.097325300Z",
